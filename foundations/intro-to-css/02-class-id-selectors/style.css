@@ -1,0 +1,29 @@
+.num1 {
+    background-color: rgba(250, 74, 121, 0.477);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#num2 {
+    color: rgb(0,0,225); 
+    font-size: 36px
+}
+
+.num3 {
+    background-color: rgba(250, 74, 121, 0.477);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    
+}
+
+
+#num4 { 
+    background-color: rgb(112, 245, 98);
+    font-size: 24px; 
+    font-weight: bold;
+}
+
+.num5 { 
+    background-color: rgba(250, 74, 121, 0.477);
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+
