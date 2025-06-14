@@ -1,3 +1,17 @@
 div {
     background-color: red;
+    font-size: 32px;
+    text-align: center;
+    color: white; 
+
+}
+/*
+p {
+    color: green; 
+}
+
+button { 
+    color: black;
+    background-color: orange;
+    outline-width: 80px;
 }
