@@ -36,36 +36,43 @@ body {
   width: 300px;
   background: royalblue;
   box-sizing: border-box;
-  display: flex;
   flex-shrink: 0;
+  padding: 16px
 }
 
 ul {
-  font-size: 24px;
   list-style-type: none;
-  margin: 16px;
+  margin: 0px;
   padding: 0px;
-  justify-content: space-between;
+  font-size: 24px
+}
+
+li {
+  margin-bottom: 16px;
+  
 }
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 16px;
-  max-height: 300px;
+  width: 300px
 }
 
 .body{ 
   display: flex;
-  flex: 1
+  flex: 1;
 }
 
 .container {
   display: flex; 
   padding: 48px;
+  flex-wrap: wrap;
+  gap: 32px;
 }
 
 a {
   text-decoration: none;
-  color: white
+  color: white;
+  
 }
